@@ -1,0 +1,1 @@
+add copy_facing and copy_append_facing command

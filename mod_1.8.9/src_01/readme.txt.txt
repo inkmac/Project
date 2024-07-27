@@ -1,0 +1,1 @@
+get facing and log to file
